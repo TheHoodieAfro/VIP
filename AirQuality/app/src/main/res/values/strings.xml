@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirQuality</string>
+    <string name="SelectPairedDevices">Select Paired Devices</string>
+    <string name="title_activity_monitor">Monitor</string>
+</resources>
